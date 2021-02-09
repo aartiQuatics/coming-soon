@@ -1,12 +1,12 @@
 {
-  "name": "coming-soon",
+  "name": "Five Star Placements",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://arkn98.github.io/coming-soon",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^4.0.2"
   },
   "scripts": {
     "predeploy": "npm run build",
